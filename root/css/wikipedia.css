@@ -21,6 +21,33 @@
 #azumanga-daioh-titulo {
     font-style: italic;
     font-weight: normal;
-    margin-right: 600px;
+    margin-right: 800px;
     margin-bottom: -5px;
+}
+#inform {
+    border: 1px;
+    border-style: solid;
+    vertical-align: top;
+    padding: 4px;
+}
+#azuu {
+    width: 300px;
+    vertical-align: middle; 
+    background-color:#CCCCFF;
+    position: relative;
+    /* bottom: 15px; */
+    padding: 4px;
+}
+
+#texto {
+    margin-left: 300px;
+    margin-right: 400px;
+}
+
+body {
+    margin-left: 180px;
+}
+
+#titulobela {
+    text-align: center;
 }
