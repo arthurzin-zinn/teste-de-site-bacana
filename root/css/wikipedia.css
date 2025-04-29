@@ -29,13 +29,15 @@
     border-style: solid;
     vertical-align: top;
     padding: 4px;
+    width: 10px;
+    background-color: #f9f9f9;
 }
 #azuu {
     width: 300px;
+    height: 45px;
     vertical-align: middle; 
     background-color:#CCCCFF;
     position: relative;
-    /* bottom: 15px; */
     padding: 4px;
 }
 
@@ -49,5 +51,19 @@ body {
 }
 
 #titulobela {
+    font-style: italic;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    position: relative;
+    bottom: 9px;
+}
+
+#manga {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+#descri {
     text-align: center;
 }
