@@ -67,3 +67,55 @@ body {
 #descri {
     text-align: center;
 }
+
+#tituloog {
+    background-color: #CCCCFF;    
+}
+
+#titulojapa {
+    text-align: center;
+    font-size: 120%;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+#d0 {
+    height: 20px;
+}
+
+#d1 {
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2px;
+    margin-right: 4px;
+    width: 4px;
+}
+
+#d2 {
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    left: 30px;   
+}
+
+#estilo {
+    margin-bottom: 4px;
+    font-weight: inherit;
+}
+
+#linha {
+    width: 690px;
+}
+
+#textoo {
+   font-size: 110%;
+}
+
+#d01 {
+    background-color: #CCCCFF;
+}
+
+#d-1 {
+    text-align: center;
+    font-size: 110%;
+}
