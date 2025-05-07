@@ -1,0 +1,195 @@
+#texto {
+    margin-left: 300px;
+    margin-right: 400px;
+}
+
+#titulobela {
+    font-style: italic;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    position: relative;
+    bottom: 9px;
+}
+
+#inform {
+    border: 1px;
+    border-style: solid;
+    vertical-align: top;
+    padding: 4px;
+    width: 10px;
+    background-color: #f9f9f9;
+    position: relative;
+    left: 15px;
+    top: 20px;
+}
+
+#manga {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+#descri {
+    text-align: center;
+}
+
+#azuu {
+    width: 300px;
+    height: 45px;
+    vertical-align: middle; 
+    background-color:#CCCCFF;
+    position: relative;
+    padding: 4px;
+}
+
+#tituloog {
+    background-color: #CCCCFF;    
+}
+
+#titulojapa {
+    text-align: center;
+    font-size: 120%;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+#d0 {
+    height: 20px;
+}
+
+#d1 {
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2px;
+    margin-right: 4px;
+    width: 4px;
+}
+
+#d2 {
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    left: 30px;   
+}
+
+#d01 {
+    background-color: #CCCCFF;
+}
+
+#d-1 {
+    text-align: center;
+    font-size: 110%;
+    margin-bottom: 2px;
+}
+
+#d012 {
+    height: 30px;
+}
+
+#d-2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+    width: 108px;
+    height: 40px;
+    margin-top: 1px;
+}
+
+#d-3 {
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    left: 30px;
+}
+
+#d013 {
+    margin-top: 20px;
+    height: 50px;
+}
+
+#d014 {
+    height: 53px;
+}
+
+#d015 {
+    height: 30px;
+}
+
+#d-4 {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 15px;
+}
+
+#d-5 {
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+    left: 40px;
+}
+
+#d-6 {
+    text-align: center;
+    position: relative;
+    bottom: 48px;
+    left: 40px;
+}
+
+#d-7 {
+    text-align: center;
+    position: relative;
+    font-size: 10px;
+    bottom: 76px;
+    left: 115px;
+}
+
+#d-8 {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+    width: 108px;
+    margin-top: 1px;
+}
+
+#d-9 {
+    text-align: center;
+    position: relative;
+    left: 32px;
+    bottom: 50px;
+}
+
+#d-10 {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 1px;
+}
+
+#d-11 {
+    font-style: oblique;
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+    left: 25px;
+}
+
+#dimg-1 {
+    position: relative;
+    bottom: 122px;
+    left: 120px;
+    width: 27px;
+}
+
+#dimg-2 {
+    position: relative;
+    bottom: 101px;
+    left: 90px;
+    width: 27px;
+}
+
+#dimg-3 {
+    width: 24px;
+    position: relative;
+    bottom: 85px;
+    left: 123px;
+}
