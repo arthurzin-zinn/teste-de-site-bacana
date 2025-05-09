@@ -108,11 +108,15 @@
 }
 
 #d014 {
-    height: 53px;
+    height: 43px;
 }
 
 #d015 {
     height: 30px;
+}
+
+#d016 {
+    height: 40px;
 }
 
 #d-4 {
@@ -171,6 +175,19 @@
     position: relative;
     bottom: 35px;
     left: 25px;
+}
+
+#d-12 {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 1px;
+}
+
+#d-13 {
+    text-align: center;
+    font-style: oblique;
+    position: relative;
+    bottom: 35px;
 }
 
 #dimg-1 {
