@@ -10,18 +10,19 @@
     font-weight: normal;
     position: relative;
     bottom: 9px;
+    margin-bottom: 0px;
 }
+
 
 #inform {
     border: 1px;
     border-style: solid;
-    vertical-align: top;
     padding: 4px;
-    width: 10px;
     background-color: #f9f9f9;
     position: relative;
-    left: 15px;
-    top: 20px;
+    width: 320px;
+    bottom: 110px;
+    margin-left: 32px;
 }
 
 #manga {
@@ -48,7 +49,6 @@
 
 #titulojapa {
     text-align: center;
-    font-size: 120%;
     margin-top: 2px;
     margin-bottom: 1px;
 }
@@ -60,16 +60,16 @@
 #d1 {
     font-weight: bold;
     text-align: left;
-    margin-top: 2px;
     margin-right: 4px;
-    width: 4px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 #d2 {
     text-align: center;
-    position: relative;
-    bottom: 30px;
-    left: 30px;   
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 40px;
 }
 
 #d01 {
@@ -80,10 +80,13 @@
     text-align: center;
     font-size: 110%;
     margin-bottom: 2px;
+    margin-top: 2px;
 }
 
 #d012 {
     height: 30px;
+    display:flex;
+    margin-top: 6px;
 }
 
 #d-2 {
@@ -97,26 +100,33 @@
 
 #d-3 {
     text-align: center;
-    position: relative;
-    bottom: 50px;
-    left: 30px;
+    display:inline;
+    margin-left: 15px;
 }
 
 #d013 {
     margin-top: 20px;
     height: 50px;
+    display: flex;
 }
 
 #d014 {
     height: 43px;
+    display: flex;
 }
 
 #d015 {
     height: 30px;
+    display: flex;
 }
 
 #d016 {
-    height: 40px;
+    height: 30px;
+    display: flex;
+}
+
+#d017 {
+    height: 30px;
 }
 
 #d-4 {
@@ -124,28 +134,26 @@
     font-weight: bold;
     text-align: left;
     margin-top: 15px;
+    margin: 0px;
 }
 
 #d-5 {
     text-align: center;
-    position: relative;
-    bottom: 35px;
-    left: 40px;
+    margin: 0px;
 }
 
 #d-6 {
     text-align: center;
-    position: relative;
-    bottom: 48px;
-    left: 40px;
+
+    margin: 0px;
 }
 
 #d-7 {
     text-align: center;
-    position: relative;
     font-size: 10px;
-    bottom: 76px;
-    left: 115px;
+    margin: 0px;
+    margin-left: 5px;
+    margin-top: 5px;
 }
 
 #d-8 {
@@ -153,14 +161,13 @@
     font-weight: bold;
     text-align: left;
     width: 108px;
-    margin-top: 1px;
+    margin: 0px;
+    display: flex;
 }
 
 #d-9 {
     text-align: center;
-    position: relative;
-    left: 32px;
-    bottom: 50px;
+    margin: 0px;
 }
 
 #d-10 {
@@ -172,41 +179,56 @@
 #d-11 {
     font-style: oblique;
     text-align: center;
-    position: relative;
-    bottom: 35px;
-    left: 25px;
+    margin-top: 0px;
+    margin-left: 60px;
 }
 
 #d-12 {
     font-family: sans-serif;
     font-weight: bold;
     margin-top: 1px;
+    margin-bottom: 0px;
 }
 
 #d-13 {
     text-align: center;
     font-style: oblique;
+    margin: 0px;
+    margin-left: 38px;
+}
+
+.d-14 {
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100px;
+    margin-top: 0px;
+}
+
+.d-15 {
+    display: inline;
     position: relative;
-    bottom: 35px;
+    bottom: 54px;
+    left: 130px;
+}
+
+.d-16 {
+    display: table-cell;
+    position: relative;
+    bottom: 55px;
+    left: 129px;
 }
 
 #dimg-1 {
     position: relative;
-    bottom: 122px;
-    left: 120px;
     width: 27px;
 }
 
 #dimg-2 {
     position: relative;
-    bottom: 101px;
-    left: 90px;
     width: 27px;
 }
 
 #dimg-3 {
-    width: 24px;
-    position: relative;
-    bottom: 85px;
-    left: 123px;
+    width: 27px;
+    height: 18px;
 }
