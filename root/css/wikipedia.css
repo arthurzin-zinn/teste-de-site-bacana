@@ -1,3 +1,8 @@
+body {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
 .menu {
     width: 27px;
     position: relative;
@@ -23,6 +28,7 @@
     font-weight: normal;
     margin-right: 800px;
     margin-bottom: -5px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 
@@ -36,9 +42,16 @@ body {
 }
 
 #linha {
-    width: 690px;
+    width: 600px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 110%;
 }
 
 #textoo {
-   font-size: 110%;
+    line-height: 1.8;
 }
+
+#textoo p {
+    width: 600px
+}
+

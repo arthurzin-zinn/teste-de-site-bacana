@@ -4,13 +4,13 @@
 }
 
 #titulobela {
-    font-style: italic;
     text-align: center;
-    font-size: 120%;
-    font-weight: normal;
-    position: relative;
-    bottom: 9px;
     margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style:italic; 
+    font-size: 120%
 }
 
 
@@ -19,10 +19,9 @@
     border-style: solid;
     padding: 4px;
     background-color: #f9f9f9;
-    position: relative;
-    width: 320px;
-    bottom: 110px;
     margin-left: 32px;
+    font-size: 88%;
+    margin-top: 20px;
 }
 
 #manga {
@@ -38,19 +37,19 @@
     width: 300px;
     height: 45px;
     vertical-align: middle; 
-    background-color:#CCCCFF;
-    position: relative;
+    background-color: #CCCCFF;
     padding: 4px;
 }
 
 #tituloog {
-    background-color: #CCCCFF;    
+    background-color: #DDDDFF;    
 }
 
 #titulojapa {
     text-align: center;
     margin-top: 2px;
     margin-bottom: 1px;
+    font-family: sans-serif;
 }
 
 #d0 {
@@ -73,12 +72,11 @@
 }
 
 #d01 {
-    background-color: #CCCCFF;
+    background-color: #DDDDFF;
 }
 
 #d-1 {
     text-align: center;
-    font-size: 110%;
     margin-bottom: 2px;
     margin-top: 2px;
 }
@@ -101,22 +99,22 @@
 #d-3 {
     text-align: center;
     display:inline;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 #d013 {
-    margin-top: 20px;
-    height: 50px;
+    margin-top: 10px;
+    height: 40px;
     display: flex;
 }
 
 #d014 {
-    height: 43px;
+    height: 33px;
     display: flex;
 }
 
 #d015 {
-    height: 30px;
+    height: 20px;
     display: flex;
 }
 
@@ -127,6 +125,23 @@
 
 #d017 {
     height: 30px;
+    display: flex;
+}
+
+.d018 {
+    display:flex;
+}
+
+.d019 {
+    background-color: #DDDDFF;
+}
+
+.d20 {
+    background-color: #EEEEFF
+}
+
+.d21 {
+    display:flex;
 }
 
 #d-4 {
@@ -135,6 +150,7 @@
     text-align: left;
     margin-top: 15px;
     margin: 0px;
+    
 }
 
 #d-5 {
@@ -144,7 +160,6 @@
 
 #d-6 {
     text-align: center;
-
     margin: 0px;
 }
 
@@ -194,7 +209,7 @@
     text-align: center;
     font-style: oblique;
     margin: 0px;
-    margin-left: 38px;
+    margin-left: 40px;
 }
 
 .d-14 {
@@ -205,30 +220,70 @@
 }
 
 .d-15 {
-    display: inline;
-    position: relative;
-    bottom: 54px;
-    left: 130px;
+    margin: 0px;
+    margin-left: 18px;
 }
 
 .d-16 {
-    display: table-cell;
-    position: relative;
-    bottom: 55px;
-    left: 129px;
+    margin: 0px;
+    margin-left: 18px;
+}
+
+.d-17 {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.d-18 {
+    margin-left: 60px;
+    margin-bottom: 8px;
+}
+
+.d-19 {
+    text-align: center;
+    margin: 0px;
+    font-family: sans-serif;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.d-20 {
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    font-family: sans-serif;
+    margin: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.d-21 {
+    margin: 0px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+.d-22 {
+    margin: 0px;
+    margin-left: 6px;
 }
 
 #dimg-1 {
-    position: relative;
     width: 27px;
 }
 
 #dimg-2 {
-    position: relative;
     width: 27px;
 }
 
 #dimg-3 {
     width: 27px;
     height: 18px;
+}
+
+.subdiv {
+    display: flex;
+    margin-left: 15px;
 }
